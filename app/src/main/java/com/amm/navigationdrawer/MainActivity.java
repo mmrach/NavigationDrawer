@@ -60,9 +60,6 @@ public class MainActivity extends AppCompatActivity {
         setupActionBar(navController, appBarConfiguration);
 
         setupNavigationMenu(navController);
-
-        //getSupportActionBar().setHomeAsUpIndicator(R.drawable.ic_menu_foreground);
-        //getSupportActionBar().setDisplayHomeAsUpEnabled(true);
     }
 
     private void setupNavigationMenu(NavController navController) {
