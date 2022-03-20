@@ -3,7 +3,7 @@
     xmlns:android="http://schemas.android.com/apk/res/android">
 
     <item
-        android:id="@+id/miCarta"
+        android:id="@+id/miComidasCaseras"
         android:title="Comidas Caseras"
         app:showAsAction="never">
         <menu>
